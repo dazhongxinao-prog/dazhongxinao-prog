@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">大中老师 · AI × OI 教育</title><desc id="desc">让孩子用 AI 创造，用编程思考。从真实课堂出发，把教学经验做成工具与作品。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d35"/><stop offset="1" stop-color="#0b1220"/></linearGradient><linearGradient id="line"><stop stop-color="#69e6cf"/><stop offset="1" stop-color="#7aa7ff"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#4d6e92" stroke-opacity=".13"/></pattern></defs>
+<rect width="1600" height="520" rx="28" fill="url(#bg)"/><rect width="1600" height="520" rx="28" fill="url(#grid)"/>
+<path d="M80 70H180" stroke="#6ce7d0" stroke-width="5"/>
+<g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif">
+<text x="80" y="116" fill="#85a0bf" font-size="20" letter-spacing="5">TEACH · BUILD · SHARE</text>
+<text x="76" y="212" fill="#f2f7ff" font-size="70" font-weight="700">大中老师</text>
+<text x="80" y="268" fill="#6ee7d0" font-size="30" font-weight="600">青少年 AI 教育 × OI 信息学教育</text>
+<text x="80" y="337" fill="#e0e9f5" font-size="34">让孩子用 AI 创造，用编程思考。</text>
+<text x="80" y="387" fill="#92a8c2" font-size="24">从真实课堂出发，把教学经验做成工具与作品。</text>
+<rect x="80" y="430" width="128" height="38" rx="19" fill="#152f3a"/><text x="144" y="456" text-anchor="middle" font-size="18" fill="#85ebd8">AI 项目学习</text>
+<rect x="222" y="430" width="136" height="38" rx="19" fill="#1c2a45"/><text x="290" y="456" text-anchor="middle" font-size="18" fill="#a9c7ff">OI / CSP 训练</text>
+<rect x="372" y="430" width="128" height="38" rx="19" fill="#20283b"/><text x="436" y="456" text-anchor="middle" font-size="18" fill="#c5cde4">教学自动化</text>
+<g transform="translate(1080 86)"><rect width="420" height="348" rx="24" fill="#101e32" stroke="#2c4059"/><circle cx="30" cy="29" r="5" fill="#6ee7d0"/><circle cx="49" cy="29" r="5" fill="#7aa7ff"/><circle cx="68" cy="29" r="5" fill="#526a86"/><path d="M0 58H420" stroke="#2c4059"/>
+<text x="32" y="104" fill="#829bb7" font-size="17" letter-spacing="2">MY CLASSROOM LOOP</text>
+<g fill="none" stroke="url(#line)" stroke-width="2"><rect x="32" y="132" width="156" height="64" rx="12"/><rect x="232" y="132" width="156" height="64" rx="12"/><rect x="32" y="242" width="156" height="64" rx="12"/><rect x="232" y="242" width="156" height="64" rx="12"/><path d="M188 164H230m-9-6 10 6-10 6M310 196V240m-6-9 6 10 6-10M232 274H190m9-6-10 6 10 6M110 242V198m-6 9 6-10 6 10"/></g>
+<g font-size="24" fill="#d9e7f7" text-anchor="middle"><text x="110" y="173">真实问题</text><text x="310" y="173">动手创造</text><text x="310" y="283">检验反馈</text><text x="110" y="283">复盘改进</text></g></g>
+</g></svg>
